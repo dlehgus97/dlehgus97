@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <h4 align=""><b>😄 Stats </b></h4>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlehgus97&show_icons=true&theme=radical)
+<h4 align=""><b>✨ My Level </b></h4>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dlehgus97})](https://solved.ac/{dlehgus97})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehgus97)](https://solved.ac/dlehgus97)
+
