@@ -12,7 +12,7 @@
 
 
 
-<h1 align="center"># problem solving </h1>
+<h1 align="center">problem solving </h1>
 
 <div align="center">
   <a href="https://solved.ac/dlehgus9977/">
