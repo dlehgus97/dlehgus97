@@ -3,12 +3,12 @@
 <div align="center">Hello world!</div>
 
 
-
-<h1 align="center">GitHub - stats</h1>
+<!--<h1 align="center">GitHub - stats</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dlehgus97&show_icons=true&theme=radical" alt="jinwoo's GitHub stats">
-</div>
+</div> -->
+
 
 
 
